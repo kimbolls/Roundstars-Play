@@ -1,0 +1,21 @@
+﻿Type,Description,Choice 1,Choice 2 ,Choice 3,True Answer
+Data Structures,What function is used to append a character at the back of a string in C++?,push_back(),append(),insert(),push_back()
+Data Structures,When a pop() operation is called on an empty queue what is the condition called?      ,Overflow,Underflow,Syntax Error,Underflow
+Data Structures,Which of the following represents the Postorder Traversal of a Binary Tree?,Left -> Right -> Root,Right -> Left -> Root,Right -> Root -> Left,Left -> Right -> Root
+Data Structures,Which data structure is mainly used for implementing the recursive algorithm?,Queue,Stack,Array,Stack
+Data Structures,What will be the best sorting algorithm given that the array elements are small (<= 1e6)?,Bubble Sort,Merge Sort,Counting Sort,Counting Sort
+Data Structures,Which of the following is a Divide and Conquer algorithm?,Bubble Sort,Selection Sort,Merge Sort,Merge Sort
+Data Structures,Which of the following sorting algorithms provide the best time complexity in the worst-case scenario?      ,Merge Sort,Quick Sort,Selection Sort,Merge Sort
+Data Structures,Which of the following is the advantage of the array data structure?      ,Elements of mixed data types can be stored,Easier to access the elements in an array,Index of the first element starts from 1,Easier to access the elements in an array
+Data Structures,How are String represented in memory in C?,LinkedList of characters,An array of characters,The object of some class,An array of characters
+Data Structures,What is the minimum number of required arguments to pass in Pandas series?,2,1,0,1
+Python,What function to use to generate random whole numbers into an array?,rand(),randinteger(),randint(),randint()
+Python,Which of the following is not the parameter of pyplots’s plot() function?,linestyle,marker,lineheight,lineheight
+Python,What is a correct syntax to check the number of dimensions in an array?,np.dim,np.dim(),np.ndim,np.ndim 
+Python,Which of the following statements is CORRECT to display a label on x axis?,"plt.xlabel(""Day"")","plt.xlabel = ""Day""",plt.xlabel(Day),"plt.xlabel(""Day"")"
+Python,Which of the following data visualization tools can represent proportionate contribution of individual data?,line,scatter,pie,pie
+Python,"Which of the following cannot be provided to ""linestyle"" in the plot() function?",dotted,dashdot,straight,straight
+Python,Which parameter is used in pie() function to create wedges out from the chart?,slice,wedge,explode,explode
+Python,What is the correct method to change the data type to integer?,A.astype(int),A.astype('integer'),A.astype('i'),A.astype(int)
+Python,A Series by default have numeric data labels starting from _,1,2,0,0
+Python,What is the minimum number of required arguments to pass in Pandas series?,2,1,0,1

@@ -1,0 +1,34 @@
+{
+   "questions":[
+      {
+         "type":"Data Structure",
+         "description":"How are String represented in memory in C?",
+         "correctAnswer":"An array of object",
+         "possibleAnswer":[
+            "Linked list of characters",
+            "An Array of object",
+            "The object of some class"
+         ]
+      },
+      {
+         "type":"Python",
+         "description":"What is Python?",
+         "correctAnswer":"Yes",
+         "possibleAnswer":[
+            "A programming language",
+            "A non-venomous snake",
+            "Your mom"
+         ]
+      },
+      {
+         "type":"idk",
+         "description":"What is Python?",
+         "correctAnswer":"Yes",
+         "possibleAnswer":[
+            "A programming language",
+            "A non-venomous snake",
+            "Your mom"
+         ]
+      }
+   ]
+}
