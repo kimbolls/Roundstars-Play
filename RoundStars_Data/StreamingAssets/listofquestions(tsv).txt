@@ -11,7 +11,7 @@ Data Structures	How are String represented in memory in C?	LinkedList of charact
 Data Structures	What is the minimum number of required arguments to pass in Pandas series?	2	1	0	1	
 Python	What function to use to generate random whole numbers into an array?	rand()	randinteger()	randint()	randint()	
 Python	Which of the following is not the parameter of pyplots’s plot() function?	linestyle	marker	lineheight	lineheight	
-Python	What is a correct syntax to check the number of dimensions in an array?	np.dim	np.dim()	np.ndim	np.ndim 	
+Python	What is a correct syntax to check the number of dimensions in an array?	np.dim	np.dim()	np.ndim	np.ndim	
 Python	Which of the following statements is CORRECT to display a label on x axis?	"plt.xlabel(""Day"")"	"plt.xlabel = ""Day"""	plt.xlabel(Day)	"plt.xlabel(""Day"")"	
 Python	Which of the following data visualization tools can represent proportionate contribution of individual data?	line	scatter	pie	pie	
 Python	"Which of the following cannot be provided to ""linestyle"" in the plot() function?"	dotted	dashdot	straight	straight	
