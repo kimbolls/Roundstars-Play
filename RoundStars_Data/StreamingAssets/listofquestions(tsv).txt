@@ -43,3 +43,20 @@ Data Structures	How can we initialize an array in C language?	"int arr[2]=(10, 2
 Data Structures	Which of the following is the disadvantage of the array?	Stack and Queue data structures can be implemented through an array.	Index of the first element in an array can be negative	Wastage of memory if the elements inserted in an array are lesser than the allocated size	Wastage of memory if the elements inserted in an array are lesser than the allocated size	
 Data Structures	Which one of the following is the process of inserting an element in the stack?	Insert	Add	Push	Push	
 Data Structures	If the size of the stack is 10 and we try to add the 11th element in the stack then the condition is known as___	Underflow	Garbage Collection	Overflow	Overflow	
+Web Programming	 How to create an ordered list (a list with the list items in numbers) in HTML? 	<ol>	<li>	<ul>	<ol>	
+Web Programming	How to insert an image in HTML?	"<img href = ""jtp.png"" />"	"<img url = ""jtp.png"" />"	"<img src = ""jtp.png"" />"	"<img src = ""jtp.png"" />"	
+Web Programming	How to add a background color in HTML?	"<marquee bg-color = ""red"">"	"<marquee color = ""red"">"	"<marquee bgcolor = ""red"">"	"<marquee bgcolor = ""red"">"	
+Web Programming	Which of the following tag is used to define options in a drop-down selection list?	<select>	<dropdown>	<option>	<option>	
+Web Programming	"If we want define style for an unique element, then which css selector will we use ?"	class	text	Id	Id	
+Web Programming	Which one is not a Semantic Tag 	<header>	<footer>	<title>	<title>	
+Web Programming	___________ formatting makes text smaller and raises it off the baseline.	Upper	Subscript	Superscript	Superscript	
+Web Programming	"To start a numbered list at a number other than 1, we can use ______ the attribute with the tag "	first	begin	start	start	
+Web Programming	"A ______ can be applied to multiple selections, where as an ___ uniquely identifies a specific selection within a document."	"ID, Class"	"name, ID"	"Class, ID"	"Class, ID"	
+Web Programming	HTML5 tag names are case ___ 	Sensitive	Insensitive	None of the answers	Insensitive	
+Web Programming	How to create an unordered list (a list with the list items in bullets) in HTML?	<ul>	<ol>	<li>	<ul>	
+Web Programming	How can we write comment along with CSS code ?	//a comment //	/ a comment/	/* a comment*/	/* a comment*/	
+Web Programming	Which CSS property is used to control the text size of an element ?	font-style	text-style	font-size	font-size	
+Web Programming	"The default value of ""position"" attribute is _________."	fixed	absolute	relative	relative	
+Web Programming	By default Hyperlinks are displayed with an underline. How do you remove the underline from all hyperlinks by using CSS code ?	a {text: no-underline;}	a {text-style: no-underline;}	a {text-decoration:none;}	a {text-decoration:none;}	
+Web Programming	Which of the following is the correct way to create a list using the lowercase letters?	"<ol alpha = ""a"" >"	"<ol letter = ""a"">"	"<ol type = ""a"">"	"<ol type = ""a"">"	
+Web Programming	Which of the following is the correct way to start an ordered list with the count of numeric value 4?	"<ol type = ""1"" initial = ""4"">"	"<ol type = ""1"" begin = ""4"">"	"<ol type = ""1"" start = ""4"">"	"<ol type = ""1"" start = ""4"">"	
